@@ -1,4 +1,5 @@
 # Functional Programming
+Every week has a .md file that contains the pen and paper assignments with their original attempt with no aid and there is a subfolder where i double checked my solutions using aid
 
 ## Concepts
 ### Evaluation
