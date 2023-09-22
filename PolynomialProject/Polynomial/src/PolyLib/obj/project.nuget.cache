@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V+3FeLbbvjqzqyU8XtmL6Szt1GgkTbq+H4drCMvskhHVaeb8ySjpIFSH/HgmGSmdAto9cowg77QD3GA1iMda6g==",
+  "success": true,
+  "projectFilePath": "/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/PolyLib.fsproj",
+  "expectedPackageFiles": [
+    "/home/fred/.nuget/packages/fsharp.core/7.0.0/fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

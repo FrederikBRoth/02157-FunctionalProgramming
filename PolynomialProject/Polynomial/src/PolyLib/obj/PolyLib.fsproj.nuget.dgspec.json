@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/PolyLib.fsproj": {}
+  },
+  "projects": {
+    "/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/PolyLib.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/PolyLib.fsproj",
+        "projectName": "PolyLib",
+        "projectPath": "/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/PolyLib.fsproj",
+        "packagesPath": "/home/fred/.nuget/packages/",
+        "outputPath": "/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fred/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/sdk/7.0.111/FSharp/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

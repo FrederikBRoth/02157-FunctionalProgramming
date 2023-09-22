@@ -1,0 +1,39 @@
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.fsproj.AssemblyReference.cache
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.AssemblyInfoInputs.cache
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.AssemblyInfo.fs
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.fsproj.CoreCompileInputs.cache
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.deps.json
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.dll
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.pdb
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.xml
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.dll
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/refint/PolyLib.dll
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.xml
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.pdb
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/FullProject/Polynomial/src/PolyLib/obj/Debug/net7.0/ref/PolyLib.dll
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.deps.json
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.dll
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.pdb
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.xml
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.fsproj.AssemblyReference.cache
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.AssemblyInfoInputs.cache
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.AssemblyInfo.fs
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.fsproj.CoreCompileInputs.cache
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.dll
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/refint/PolyLib.dll
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.xml
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.pdb
+C:/Users/mire/Documents/MRH data/Kurser/02157-23/MiniProjectsPrograms/Polynomial/Handout/Polynomial/src/PolyLib/obj/Debug/net7.0/ref/PolyLib.dll
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.deps.json
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.dll
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.pdb
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/bin/Debug/net7.0/PolyLib.xml
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.fsproj.AssemblyReference.cache
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.AssemblyInfoInputs.cache
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.AssemblyInfo.fs
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.fsproj.CoreCompileInputs.cache
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.dll
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/refint/PolyLib.dll
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.xml
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/PolyLib.pdb
+/home/fred/Documents/Uni/02157-FunctionalProgramming/PolynomialProject/Polynomial/src/PolyLib/obj/Debug/net7.0/ref/PolyLib.dll

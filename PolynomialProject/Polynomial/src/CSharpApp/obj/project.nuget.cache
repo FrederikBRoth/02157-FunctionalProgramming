@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckbRva/TmMUQV1HWP0hqyjshTwQs3ofL7soEiKhWYryyc+OHc9J8UBcMCo+t8julywlTrbubJ4o4kJtYUdai+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\CSharpApp\\CSharpApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mire\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

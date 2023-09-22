@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\CSharpApp\\CSharpApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\CSharpApp\\CSharpApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\CSharpApp\\CSharpApp.csproj",
+        "projectName": "CSharpApp",
+        "projectPath": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\CSharpApp\\CSharpApp.csproj",
+        "packagesPath": "C:\\Users\\mire\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\CSharpApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\PolyLib\\PolyLib.fsproj": {
+                "projectPath": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\PolyLib\\PolyLib.fsproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\PolyLib\\PolyLib.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\PolyLib\\PolyLib.fsproj",
+        "projectName": "PolyLib",
+        "projectPath": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\PolyLib\\PolyLib.fsproj",
+        "packagesPath": "C:\\Users\\mire\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-23\\MiniProjectsPrograms\\Polynomial\\Handout\\Polynomial\\src\\PolyLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mire\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.203\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[7.0.200, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
