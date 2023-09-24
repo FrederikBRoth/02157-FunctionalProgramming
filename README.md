@@ -1,4 +1,5 @@
 # Functional Programming
+[Course Description](https://courses.compute.dtu.dk/02157/) 
 
 ## Concepts
 ### Evaluation
@@ -19,7 +20,7 @@ Example from 2-2-pow.fsx:
 ```
 ## Solid ChatGPT answers
 
-### Hello hope you're doing good! In F# you can either declare functions like f(x,y) or f x y. What is the difference?
+### Hello hope you're doing good! In F# you can either declare functions like `f(x,y)` or `f x y`. What is the difference?
 Hello! I'm doing well, thank you. I hope you're doing well too.
 
 In F#, you can indeed declare and call functions in two different ways:
@@ -45,7 +46,7 @@ The difference between these two syntax styles is primarily a matter of preferen
 
 In practice, many F# developers prefer the second style (without parentheses) because it aligns with functional programming principles and can make the code more readable, especially when dealing with curried functions or pipelining. However, the choice between the two styles ultimately depends on your personal coding style and the specific requirements of your project.
 
-### When compiled the first function results in a typing of a' * b' -> c' while the second function results in a' -> b' -> c'. Why is that
+### When compiled the first function results in a typing of `a' * b' -> c'` while the second function results in `a' -> b' -> c'`. Why is that?
 
 In F#, the difference in the function type signatures between the two styles of declaring functions is related to how function currying works.
 

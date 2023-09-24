@@ -91,3 +91,4 @@ when the recursion is sat to a variable.
 
 2. Typing is easy. What g computes i am unsure. Seems too simple of an
 explaination but it might be alright.
+
