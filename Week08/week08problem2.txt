@@ -1,0 +1,12 @@
+Problem 2
+
+f "a" [1;2;3]
+=> (a,1) :: f "a" [2;3]
+=> (a,1) :: (a,2) :: f "a" [3]
+=> (a,1) :: (a,2) :: (a,3) :: f "a" []
+=> (a,1) :: (a,2) :: (a,3) :: []
+=> [(a,1);(a,2);(a,3)]
+
+Problem 3
+
+The type is string int due to how the tuple is created. the first argument "a" put together with the elements of the int list. 

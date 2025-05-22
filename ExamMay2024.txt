@@ -1,0 +1,9 @@
+let rec pricesOK reg = 
+    match reg with
+    | [] => true
+    | x::xs => if x < 0 then false else pricesOK xs
+
+let rec getPrice item reg = 
+    match reg with
+    | [] -> raise "item not in list"
+    | (i, p)::xs -> if i == item then item else getPrice xs reg
